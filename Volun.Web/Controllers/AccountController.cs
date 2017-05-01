@@ -9,6 +9,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using Volun.Web.Models;
+using Volun.Web.Data;
 
 namespace Volun.Web.Controllers
 {
