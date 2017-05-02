@@ -54,6 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="LogCreate.cs" />
+    <Compile Include="LogDetail.cs" />
     <Compile Include="LogItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

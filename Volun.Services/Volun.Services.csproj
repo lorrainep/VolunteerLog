@@ -53,11 +53,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LogService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Volun.Data\Volun.Data.csproj">
+      <Project>{054cecb6-13fa-44e8-b86e-b1360f24d777}</Project>
+      <Name>Volun.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Volun.Models\Volun.Models.csproj">
+      <Project>{ee704493-7331-48ac-a4ca-563a9f394301}</Project>
+      <Name>Volun.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

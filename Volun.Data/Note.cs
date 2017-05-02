@@ -14,7 +14,7 @@ namespace Volun.Data
         public string Content { get; set; }
 
         //DateTimeOffset carries timezone info with it
-        public DateTimeOffset CreateUtc { get; set; }
+        public DateTimeOffset CreatedUtc { get; set; }
 
         public DateTimeOffset? ModifiedUtc { get; set; }
     }

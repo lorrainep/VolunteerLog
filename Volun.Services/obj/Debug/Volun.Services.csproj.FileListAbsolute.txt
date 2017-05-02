@@ -12,3 +12,9 @@ c:\users\lorraine papczynski\documents\visual studio 2017\Projects\Volun\Volun.S
 c:\users\lorraine papczynski\documents\visual studio 2017\Projects\Volun\Volun.Services\obj\Debug\Volun.Services.csprojResolveAssemblyReference.cache
 c:\users\lorraine papczynski\documents\visual studio 2017\Projects\Volun\Volun.Services\obj\Debug\Volun.Services.dll
 c:\users\lorraine papczynski\documents\visual studio 2017\Projects\Volun\Volun.Services\obj\Debug\Volun.Services.pdb
+C:\Users\Lorraine Papczynski\Documents\Visual Studio 2017\Projects\Volun\Volun.Services\bin\Debug\Volun.Data.dll
+C:\Users\Lorraine Papczynski\Documents\Visual Studio 2017\Projects\Volun\Volun.Services\bin\Debug\Volun.Models.dll
+C:\Users\Lorraine Papczynski\Documents\Visual Studio 2017\Projects\Volun\Volun.Services\bin\Debug\Volun.Data.pdb
+C:\Users\Lorraine Papczynski\Documents\Visual Studio 2017\Projects\Volun\Volun.Services\bin\Debug\Volun.Data.dll.config
+C:\Users\Lorraine Papczynski\Documents\Visual Studio 2017\Projects\Volun\Volun.Services\bin\Debug\Volun.Models.pdb
+C:\Users\Lorraine Papczynski\Documents\Visual Studio 2017\Projects\Volun\Volun.Services\bin\Debug\Volun.Models.dll.config

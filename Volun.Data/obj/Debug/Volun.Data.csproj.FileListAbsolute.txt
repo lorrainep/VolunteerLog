@@ -12,3 +12,6 @@ c:\users\lorraine papczynski\documents\visual studio 2017\Projects\Volun\Volun.D
 c:\users\lorraine papczynski\documents\visual studio 2017\Projects\Volun\Volun.Data\obj\Debug\Volun.Data.csprojResolveAssemblyReference.cache
 c:\users\lorraine papczynski\documents\visual studio 2017\Projects\Volun\Volun.Data\obj\Debug\Volun.Data.dll
 c:\users\lorraine papczynski\documents\visual studio 2017\Projects\Volun\Volun.Data\obj\Debug\Volun.Data.pdb
+C:\Users\Lorraine Papczynski\Documents\Visual Studio 2017\Projects\Volun\Volun.Data\obj\Debug\Volun.Data.Migrations.InitialCreate.resources
+C:\Users\Lorraine Papczynski\Documents\Visual Studio 2017\Projects\Volun\Volun.Data\obj\Debug\Volun.Data.csproj.GenerateResource.Cache
+C:\Users\Lorraine Papczynski\Documents\Visual Studio 2017\Projects\Volun\Volun.Data\obj\Debug\Volun.Data.Migrations.InitialCreate1.resources
