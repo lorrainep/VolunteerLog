@@ -15,9 +15,7 @@ namespace Volun.Models
         [Display(Name="Created")]
         public DateTimeOffset CreatedUTC { get; set; }
 
-        public override string ToString()
-        {
-            return base.ToString();
-        }
+        public override string ToString() => Title;
+       
     }
 }
