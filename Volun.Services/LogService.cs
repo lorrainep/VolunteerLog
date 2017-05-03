@@ -64,7 +64,7 @@ namespace Volun.Services
                 var entity =
                     ctx
                         .Notes
-                        .Where(e => e.NoteId == noteId && e.OwnerId == _userId);
+                        .Single(e => e.NoteId == noteId && e.OwnerId == _userId);
                 return
                     new LogDetail
                     {
@@ -74,6 +74,17 @@ namespace Volun.Services
                         CreatedUtc = entity.CreatedUtc,
                         ModifiedUtc = entity.ModifiedUtc
                     };
+            }
+        }
+
+        public bool UpdateLog(LogEdit model)
+        {
+            using(var ctx = new ApplicationDbContext())
+            {
+                var entity =
+                    ctx
+                        .Notes
+                        .Single(e => e.NoteId == model.NoteId && e.OwnerId == _userId);
             }
         }
     }

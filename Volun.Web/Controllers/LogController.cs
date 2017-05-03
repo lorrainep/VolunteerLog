@@ -61,6 +61,8 @@ namespace Volun.Web.Controllers
             return View(model);
         }
 
+      
+
         private LogService CreateLogService()
         {
             var userId = Guid.Parse(User.Identity.GetUserId());
